@@ -1,5 +1,5 @@
 {
-  "expo": {
+  "expo": { "extra": { "eas": { "projectId": "8c8cd326-90d2-4ceb-91e5-b3df9549438f" } } },
     "name": "NeuronPad",
     "slug": "neuronpad",
     "version": "1.0.0",
