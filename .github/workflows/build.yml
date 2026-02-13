@@ -1,6 +1,6 @@
 name: Expo Build
 on:
-  workflow_dispatch: # এটা দিলে এখন থেকে তুই হাত দিয়ে ক্লিক না করলে বিল্ড হবে না
+  workflow_dispatch: # এখন থেকে তুই গিটহাবে গিয়ে বাটন টিপলে তবেই বিল্ড শুরু হবে
 
 jobs:
   build:
