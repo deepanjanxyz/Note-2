@@ -1,7 +1,6 @@
 name: Expo Build
 on:
-  push:
-    branches: [main]
+  workflow_dispatch: # এটা দিলে এখন থেকে তুই হাত দিয়ে ক্লিক না করলে বিল্ড হবে না
 
 jobs:
   build:
